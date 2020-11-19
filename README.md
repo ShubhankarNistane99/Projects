@@ -52,6 +52,7 @@ int main()
 }
 
 ## Output:-
+![hourglass_screenshot](https://user-images.githubusercontent.com/54000745/99625295-f1aa7900-2a55-11eb-89f2-2ee787c204cd.JPG)
 
 
 
