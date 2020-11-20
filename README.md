@@ -97,6 +97,7 @@ int main()
 }
 
 ## Output:-
+![substring](https://user-images.githubusercontent.com/54000745/99768065-31429500-2b2a-11eb-8f60-235a6e332a3b.JPG)
 
 
 
